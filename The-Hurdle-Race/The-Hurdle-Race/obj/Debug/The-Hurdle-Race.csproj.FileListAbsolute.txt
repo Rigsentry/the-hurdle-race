@@ -1,0 +1,7 @@
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\the-hurdle-race\The-Hurdle-Race\The-Hurdle-Race\bin\Debug\The-Hurdle-Race.exe.config
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\the-hurdle-race\The-Hurdle-Race\The-Hurdle-Race\bin\Debug\The-Hurdle-Race.exe
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\the-hurdle-race\The-Hurdle-Race\The-Hurdle-Race\bin\Debug\The-Hurdle-Race.pdb
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\the-hurdle-race\The-Hurdle-Race\The-Hurdle-Race\obj\Debug\The-Hurdle-Race.csprojAssemblyReference.cache
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\the-hurdle-race\The-Hurdle-Race\The-Hurdle-Race\obj\Debug\The-Hurdle-Race.csproj.CoreCompileInputs.cache
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\the-hurdle-race\The-Hurdle-Race\The-Hurdle-Race\obj\Debug\The-Hurdle-Race.exe
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\the-hurdle-race\The-Hurdle-Race\The-Hurdle-Race\obj\Debug\The-Hurdle-Race.pdb
