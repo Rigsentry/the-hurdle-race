@@ -1,0 +1,7 @@
+C:\work-not-shared\2021\codechallenge\the-hurdle-race\the-hurdle-race\the-hurdle-race\bin\Debug\the-hurdle-race.exe.config
+C:\work-not-shared\2021\codechallenge\the-hurdle-race\the-hurdle-race\the-hurdle-race\bin\Debug\the-hurdle-race.exe
+C:\work-not-shared\2021\codechallenge\the-hurdle-race\the-hurdle-race\the-hurdle-race\bin\Debug\the-hurdle-race.pdb
+C:\work-not-shared\2021\codechallenge\the-hurdle-race\the-hurdle-race\the-hurdle-race\obj\Debug\the-hurdle-race.csprojAssemblyReference.cache
+C:\work-not-shared\2021\codechallenge\the-hurdle-race\the-hurdle-race\the-hurdle-race\obj\Debug\the-hurdle-race.csproj.CoreCompileInputs.cache
+C:\work-not-shared\2021\codechallenge\the-hurdle-race\the-hurdle-race\the-hurdle-race\obj\Debug\the-hurdle-race.exe
+C:\work-not-shared\2021\codechallenge\the-hurdle-race\the-hurdle-race\the-hurdle-race\obj\Debug\the-hurdle-race.pdb
